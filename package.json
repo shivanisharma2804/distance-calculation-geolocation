@@ -1,0 +1,11 @@
+{
+  "name": "distance-calculation-based-on-geolocation",
+  "version": "1.0.0",
+  "description": "NPM package to check customers data that are in 100 km range from given lat and lon co-ordinates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
